@@ -9,8 +9,12 @@
     "dev": "next"
   },
   "dependencies": {
-    "next": "^6.0.0",
+    "@zeit/next-css": "^0.2.0",
+    "bootstrap": "^4.1.1",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^6.0.1-canary.2",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "reactstrap": "^6.0.1"
   }
 }

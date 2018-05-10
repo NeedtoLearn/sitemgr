@@ -1,7 +1,5 @@
-const Index = () => (
-    <div>
-        <h1>Hello Next!</h1>
-    </div>
-);
+import SiteManager from '../components/SiteManager';
 
-export default Index;
+export default () => (
+  <SiteManager />
+)
